@@ -1,6 +1,6 @@
 function Intro() {
   return (
-    <div className="flex flex-wrap flex-col mx-36">
+    <section className="flex flex-wrap flex-col mx-36">
       <h1 className="font-lato font-bold text-5xl text-title">
         I'm Sellyna Lee
       </h1>
@@ -12,7 +12,7 @@ function Intro() {
         Zealand. I like to build code, bring interface designs to life and
         learning new technologies in the digital space.
       </p>
-    </div>
+    </section>
   );
 }
 
