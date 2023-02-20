@@ -1,6 +1,7 @@
 import Intro from "./components/Intro";
 import NavBar from "./components/NavBar";
 import styles from "./constants/style";
+import About from "./components/About";
 
 function App() {
   return (
@@ -11,8 +12,12 @@ function App() {
       <div className={`${styles.padding} bg-primary`}>
         <Intro />
       </div>
-      <div className={`${styles.padding} bg-primary`}></div>
-      <div className={`${styles.padding} bg-primary`}></div>
+      <div className={`${styles.padding} bg-primary`}>
+        <About />
+      </div>
+      <div className={`${styles.padding} bg-primary`}>
+        <Intro />
+      </div>
     </div>
   );
 }

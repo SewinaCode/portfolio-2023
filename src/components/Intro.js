@@ -1,13 +1,9 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faLinkedin,
-  faGithub,
-  faGit,
-} from "@fortawesome/free-brands-svg-icons";
+import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 
 function Intro() {
   return (
-    <section className="flex flex-wrap flex-col 2xl:mx-36 md:mx-5">
+    <section id="intro" className="flex flex-wrap flex-col 2xl:mx-36 md:mx-5">
       <h1 className="font-lato font-bold text-5xl text-title">
         I'm Sellyna Lee
       </h1>
