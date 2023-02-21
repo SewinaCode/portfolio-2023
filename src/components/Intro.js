@@ -3,7 +3,7 @@ import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 
 function Intro() {
   return (
-    <section id="intro" className="flex flex-wrap flex-col">
+    <section id="home" className="flex flex-wrap flex-col">
       <h1 className="font-lato font-bold text-5xl text-title">
         I'm Sellyna Lee
       </h1>

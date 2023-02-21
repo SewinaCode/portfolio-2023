@@ -18,7 +18,7 @@ function About() {
           <span className="text-highlight"> Javascript</span> and the rest was
           history. <br /> <br /> I successfully completed Mission Ready’s
           <span className="text-highlight"> Full Stack Developer</span> &
-          <span className="text-highlight"> Cloud and Devops Developer</span>
+          <span className="text-highlight"> Cloud and Devops Developer </span>
           courses before moving on to an internship with Tohu Media. My time
           with Mission Ready helped me discover my strength in Front End
           Development but I am interested in other areas of tech have a strong
