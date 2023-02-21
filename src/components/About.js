@@ -4,7 +4,7 @@ import { faCircle } from "@fortawesome/free-solid-svg-icons";
 
 function About() {
   return (
-    <section id="about" className=" my-7">
+    <section id="about" className="py-7">
       <div>
         <h1 className="text-title text-3xl font-lato font-semibold tracking-wide">
           A bit about me <span className="tracking-widest">...</span>
@@ -18,7 +18,7 @@ function About() {
           <span className="text-highlight"> Javascript</span> and the rest was
           history. <br /> <br /> I successfully completed Mission Ready’s
           <span className="text-highlight"> Full Stack Developer</span> &
-          <span className="text-highlight"> Cloud and Devops Developer </span>
+          <span className="text-highlight"> Cloud and Devops Developer</span>
           courses before moving on to an internship with Tohu Media. My time
           with Mission Ready helped me discover my strength in Front End
           Development but I am interested in other areas of tech have a strong
