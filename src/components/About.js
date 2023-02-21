@@ -4,7 +4,7 @@ import { faCircle } from "@fortawesome/free-solid-svg-icons";
 
 function About() {
   return (
-    <section id="about" className="py-7">
+    <section id="about" className="bg-primary py-7">
       <div>
         <h1 className="text-title text-3xl font-lato font-semibold tracking-wide">
           A bit about me <span className="tracking-widest">...</span>
