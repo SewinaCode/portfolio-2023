@@ -1,6 +1,3 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCircle } from "@fortawesome/free-solid-svg-icons";
-
 export const navLinks = [
   {
     id: "home",
@@ -22,23 +19,18 @@ export const navLinks = [
 
 export const skillPoints = [
   {
-    point: { faCircle },
     skill: "Javascript",
   },
   {
-    point: { faCircle },
     skill: "React Js",
   },
   {
-    point: { faCircle },
     skill: "Sass/Scss",
   },
   {
-    point: { faCircle },
     skill: "Node Js",
   },
   {
-    point: { faCircle },
     skill: "Express Js",
   },
 ];

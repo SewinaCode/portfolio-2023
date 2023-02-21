@@ -3,7 +3,7 @@ import { navLinks } from "../constants/index";
 function NavBar() {
   return (
     <div className="flex flex-row justify-between items-center">
-      <div className="text-white text-2xl font-lato font-bold">
+      <div className="text-white text-2xl sm:text-lg font-lato font-bold">
         HELLO VISITOR!
       </div>
 
