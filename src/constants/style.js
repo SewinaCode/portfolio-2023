@@ -9,13 +9,20 @@ const styles = {
   flexCenter: "flex justify-center items-center",
   flexStart: "flex justify-center items-start",
 
+  fontSize: "sm:text-lg lg:text-3xl",
+  smlFont2xl: "2xl:text-2xl",
+  medFont2xl: "2xl:text-xl",
+
+  latoBold: "font-lato font-bold",
+
   paddingX: "sm:px-16 px-6",
   paddingY: "sm:py-16 py-6",
-  padding: "sm:px-16 px-[50px] sm:py-12 py-[70px]",
+  padding: "sm:px-16 2xl:px-32 px-[50px] sm:py-12 2xl:py-10 py-[70px] ",
 
   marginX: "sm:mx-16 mx-6",
   marginY: "sm:my-16 my-6",
   marginXL: "xl:mx-36 lg:mx-36 md:mx-5 ",
+  margin: "sm:mx-16 mx-[50px] sm:my-12 my-[70px]",
 
   widthXL: "2xl:max-w-7xl xl:max-w-4xl lg:max-w-4xl md:max-w-2xl",
 };

@@ -3,14 +3,14 @@ import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 
 function Intro() {
   return (
-    <section id="home" className="flex flex-wrap flex-col py-7">
+    <section className="flex flex-wrap flex-col py-7">
       <h1 className="font-lato font-bold text-5xl text-title">
         I'm Sellyna Lee
       </h1>
       <p className="font-lato text-lg text-highlight mt-[10px]">
         Front End Developer / Junior Developer
       </p>
-      <p className="font-lato text-sm text-white mt-[15px] 2xl:pr-48 md:pr-5">
+      <p className={`font-lato text-sm text-white mt-[15px] 2xl:pr-48 md:pr-5`}>
         I am a junior developer based in the beautiful city of Auckland, New
         Zealand. I like to build code, bring interface designs to life and
         learning new technologies in the digital space.
